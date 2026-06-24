@@ -36,6 +36,13 @@ This project predicts business failure using financial and operational indicator
 5. Model Training and Evaluation
 6. Prediction Interface using Streamlit
 
+## Results
+
+- Successfully developed machine learning models for business failure prediction.
+- Applied SMOTE to address class imbalance and improve model performance.
+- Evaluated models using confusion matrix, accuracy score, precision, recall, and F1-score.
+- Built a Streamlit application for real-time business failure prediction.
+
 ## Author
 
 Veena P
