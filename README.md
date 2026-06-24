@@ -38,10 +38,11 @@ This project predicts business failure using financial and operational indicator
 
 ## Results
 
-- Successfully developed machine learning models for business failure prediction.
-- Applied SMOTE to address class imbalance and improve model performance.
-- Evaluated models using confusion matrix, accuracy score, precision, recall, and F1-score.
-- Built a Streamlit application for real-time business failure prediction.
+- Developed machine learning models for business failure prediction.
+- Applied SMOTE to address class imbalance.
+- Achieved approximately 91.6% classification accuracy.
+- Built a Streamlit application for real-time prediction.
+  
 ## Screenshots
 
 ### Streamlit Application
